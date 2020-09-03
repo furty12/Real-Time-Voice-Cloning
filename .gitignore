@@ -12,6 +12,7 @@
 *.blg
 *.bbl
 *.bcf
+*.wav
 *.toc
 *.sh
 encoder/saved_models/*
